@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://ZeroKinetik.github.io'
 languageCode = 'en-us'
-title = 'heman'
+title = 'Heman sakkthivel'
 theme = 'typo'
 
 # Google analytics code
@@ -14,19 +14,17 @@ tag = 'tags'
 description = "A Tech Blog"
 
 # Appearance settings
-theme = 'auto'
+theme = 'base16-cupcake'
 colorPalette = 'default'
 hideHeader = false
 
 # Intro on main page, content is markdown
 homeIntroTitle = 'Hi!'
 homeIntroContent = """
-hello
+I am a CS student figuring things out. I am interested in a various topics, including algorithms, distributed systems, database management and software design principles.
+Feel free to read [about myself](/about) or take a look at my [posts](/posts).
 """
 
-# Collection to display on home
-homeCollectionTitle = 'Posts'
-homeCollection = 'posts'
 
 # Lists parameters
 paginationSize = 100
@@ -40,25 +38,18 @@ showFooter = false
 [params.breadcrumbs]
 enabled = true
 showCurrentPage = true
-home = "Home"
+home = "~"
 
 # Social icons
 [[params.social]]
 name = "linkedin"
-url = "https://www.linkedin.com/in/user/"
-
-[[params.social]]
-name = "medium"
-url = "https://medium.com/@user"
+url = "https://www.linkedin.com/in/hemansakkthivelms14"
 
 [[params.social]]
 name = "github"
-url = "https://github.com/user"
+url = "https://github.com/ZeroKinetik"
 
 # Main menu pages
-[[params.menu]]
-name = "home"
-url = "/"
 
 [[params.menu]]
 name = "posts"
@@ -71,17 +62,16 @@ url = "/about"
 # Syntax highlight on code blocks
 [markup]
 [markup.highlight]
-style = 'algol'
+style = 'catppuccin-frappe'
 
-# Giscus comments
 [params.giscus]
 enable = false
-repo = "user/repo"
-repoid = "repoId"
-category = "General"
+repo = "your/repo"
+repoid = "id"
+category = "category"
 categoryid = "categoryId"
 mapping = "pathname"
-theme = "preferred_color_scheme"
+theme = "preferred_color_scheme" 
 
 
 [caches]
