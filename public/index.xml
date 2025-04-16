@@ -9,11 +9,11 @@
     <lastBuildDate>Wed, 16 Apr 2025 11:07:36 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Log-Structured Merge Tree</title>
-      <link>http://localhost:1313/posts/hello/</link>
+      <title>Build your own Zerotier</title>
+      <link>http://localhost:1313/posts/zerotier-networking/</link>
       <pubDate>Wed, 16 Apr 2025 11:07:36 +0530</pubDate>
-      <guid>http://localhost:1313/posts/hello/</guid>
-      <description>An LSM Tree overview and Java implementation.</description>
+      <guid>http://localhost:1313/posts/zerotier-networking/</guid>
+      <description>An Implementation of a VSwitch that connects remote devices over the internet, making them behave like they’re on the same local network (LAN) with a simulation using cisco packet tracer.</description>
     </item>
     <item>
       <title>About</title>

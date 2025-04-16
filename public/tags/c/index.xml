@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Heman sakkthivel</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Heman sakkthivel</description>
+    <title>C on Heman sakkthivel</title>
+    <link>http://localhost:1313/tags/c/</link>
+    <description>Recent content in C on Heman sakkthivel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 16 Apr 2025 11:07:36 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/c/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Build your own Zerotier</title>
       <link>http://localhost:1313/posts/zerotier-networking/</link>
       <pubDate>Wed, 16 Apr 2025 11:07:36 +0530</pubDate>
       <guid>http://localhost:1313/posts/zerotier-networking/</guid>
-      <description>An Implementation of a VSwitch that connects remote devices over the internet, making them behave like they’re on the same local network (LAN) with a simulation using cisco packet tracer.</description>
+      <description></description>
     </item>
   </channel>
 </rss>

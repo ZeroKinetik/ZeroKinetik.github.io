@@ -52,7 +52,7 @@ url = "https://github.com/ZeroKinetik"
 # Main menu pages
 
 [[params.menu]]
-name = "~"
+name = "*"
 url = "/"
 
 [[params.menu]]
